@@ -1,4 +1,4 @@
-# Zero-Shot Learning by Harnessing Adversarial Samples [ACM Multimedia 2023]
+# Zero-Shot Learning by Harnessing Adversarial Samples [ACM International Conference on Multimedia 2023]
 
 
 
