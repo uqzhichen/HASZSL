@@ -64,7 +64,7 @@ Please refer to the [train.sh](scripts/train.sh) and [eval.sh](scripts/eval.sh) 
 ## Citation
 If you use our work, please consider citing:
 ```bibtex
-@inproceedings{khattakMaPLe,
+@inproceedings{chen2023zero,
     title={Zero-Shot Learning by Harnessing Adversarial Samples},
     author={Chen, Zhi and Zhang, Pengfei and Li, Jingjing and Wang, Sen and Huang, Zi},
     booktitle={Proceedings of the 31th ACM International Conference on Multimedia (MM'23)},
